@@ -81,8 +81,11 @@ gulp.task('copy', [
   'copy:jquery',
   'copy:license',
   'copy:main.css',
+  'copy:font',
   'copy:misc',
-  'copy:normalize'
+  'copy:normalize',
+  'copy:bootstrap.css',
+  'copy:bootstrap.js'
 ]);
 
 gulp.task('copy:.htaccess', () =>
@@ -112,6 +115,16 @@ gulp.task('copy:jquery', () =>
     .pipe(gulp.dest(`${dirs.dist}/js/vendor`))
 );
 
+gulp.task('copy:bootstrap.js', () =>
+  gulp.src(['src/js/bootstrap.min.js'])
+    .pipe(gulp.dest(`${dirs.dist}/js/vendor`))
+);
+
+gulp.task('copy:bootstrap.css', () =>
+  gulp.src(['src/css/bootstrap.min.css'])
+    .pipe(gulp.dest(`${dirs.dist}/css`))
+);
+
 gulp.task('copy:license', () =>
   gulp.src('LICENSE.txt')
     .pipe(gulp.dest(dirs.dist))
@@ -120,7 +133,7 @@ gulp.task('copy:license', () =>
 gulp.task('copy:main.css', () => {
   const banner = `/*! HTML5 Boilerplate v${pkg.version} | ${pkg.license} License | ${pkg.homepage} */\n\n`;
 
-  gulp.src(`node_modules/main.css/dist/main.css`)
+  gulp.src(`src/css/main.css`)
     .pipe(plugins().header(banner))
     .pipe(plugins().autoprefixer({
       browsers: ['last 2 versions', 'ie >= 9', '> 1%'],
@@ -128,6 +141,12 @@ gulp.task('copy:main.css', () => {
     }))
     .pipe(gulp.dest(`${dirs.dist}/css`));
 });
+
+gulp.task('copy:font', () =>
+  gulp.src(['src/font'])
+    .pipe(gulp.dest(`${dirs.dist}`))
+);
+
 
 gulp.task('copy:misc', () =>
   gulp.src([
@@ -152,6 +171,7 @@ gulp.task('copy:normalize', () =>
   gulp.src('node_modules/normalize.css/normalize.css')
     .pipe(gulp.dest(`${dirs.dist}/css`))
 );
+
 
 gulp.task('modernizr', (done) =>{
 

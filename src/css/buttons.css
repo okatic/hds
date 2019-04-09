@@ -1,0 +1,38 @@
+
+.cta-btn-blue {
+  background: #FFFFFF;
+  border: 3px solid #FFFFFF;
+  border-radius: 10px;
+  font-family: SpaceGrotesk-Bold, sans-serif;
+  font-size: 32px;
+  color: #4A65C5;
+  letter-spacing: 0;
+  text-align: center;
+  max-width: 350px;
+  width: 100%;
+}
+
+.cta-btn-hero {
+  font-family: SpaceGrotesk-Bold, sans-serif;
+  font-size: 16px;
+  color: #FFFFFF;
+  letter-spacing: 0;
+  text-align: center;
+  background: #4A65C5;
+  border: 3px solid #4A65C5;
+  border-radius: 10px;
+  max-width: 250px;
+  width: 100%;
+}
+
+.cta-btn-outline-white {
+  border: 3px solid #FFFFFF;
+  color: #FFFFFF;
+  background: transparent;
+  font-family: SpaceGrotesk-Bold, sans-serif;
+  font-size: 16px;
+  text-align: center;
+  border-radius: 10px;
+  max-width: 250px;
+  width: 100%;
+}
