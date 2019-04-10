@@ -68,6 +68,13 @@
   width: 90%;
 }
 
+.box {
+  -ms-flex: 0 0 500px;
+  flex: 0 0 350px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .testimonials-box {
   background-color: #e7ecff;
   max-width: 400px;
@@ -128,7 +135,7 @@
   }
 
   .title-heading {
-    font-size: 45px;
+    font-size: 55px;
   }
 
   .satochi-section {
@@ -164,7 +171,7 @@
   }
 
   .title-heading {
-    font-size: 35px;
+    font-size: 55px;
   }
 
   .satochi-title {
@@ -186,9 +193,12 @@
     width: 100%!important;
   }
   .title-heading {
-    font-size: 35px;
+    font-size: 45px;
   }
 
+  .cta-btn-outline-white, .cta-btn-blue, .cta-btn-hero {
+    max-width: 300px;
+  }
   /*.satochi-title {*/
     /*font-size: 22px;*/
   /*}*/

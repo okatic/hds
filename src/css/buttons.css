@@ -14,14 +14,14 @@
 
 .cta-btn-hero {
   font-family: SpaceGrotesk-Bold, sans-serif;
-  font-size: 16px;
+  font-size: 32px;
   color: #FFFFFF;
   letter-spacing: 0;
   text-align: center;
   background: #4A65C5;
   border: 3px solid #4A65C5;
   border-radius: 10px;
-  max-width: 250px;
+  max-width: 350px;
   width: 100%;
 }
 
@@ -30,9 +30,9 @@
   color: #FFFFFF;
   background: transparent;
   font-family: SpaceGrotesk-Bold, sans-serif;
-  font-size: 16px;
+  font-size: 32px;
   text-align: center;
   border-radius: 10px;
-  max-width: 250px;
+  max-width: 350px;
   width: 100%;
 }
