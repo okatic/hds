@@ -30,7 +30,7 @@
 }
 
 .satochi-section {
-  background: url(../../img/svg/client-satochi.svg) no-repeat bottom right;
+  background: url(../../img/svg/satichi-background.svg) no-repeat top right;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -139,7 +139,7 @@
   }
 
   .satochi-section {
-    height: 600px;
+    height: 700px;
   }
 }
 
@@ -153,7 +153,7 @@
   }
 
   .satochi-section {
-    height: 550px;
+    height: 650px;
   }
 
   .title-section {
@@ -175,12 +175,16 @@
   }
 
   .satochi-title {
-    font-size: 28px;
+    font-size: 30px;
   }
 
   .satochi-section {
-    height: 600px;
+    height: 700px;
     background-position: bottom;
+  }
+  .title-area {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
   }
 }
 
@@ -189,6 +193,7 @@
     font-size: 25px;
     max-width: 100%;
   }
+
   .title-area .w-75 {
     width: 100%!important;
   }
