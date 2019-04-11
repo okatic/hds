@@ -83,7 +83,6 @@ gulp.task('copy', [
   'copy:main.css',
   'copy:font',
   'copy:misc',
-  'copy:normalize',
   'copy:bootstrap.css',
   'copy:bootstrap.js'
 ]);
@@ -167,10 +166,10 @@ gulp.task('copy:misc', () =>
   }).pipe(gulp.dest(dirs.dist))
 );
 
-gulp.task('copy:normalize', () =>
-  gulp.src('node_modules/normalize.css/normalize.css')
-    .pipe(gulp.dest(`${dirs.dist}/css`))
-);
+// gulp.task('copy:normalize', () =>
+//   gulp.src('node_modules/normalize.css/normalize.css')
+//     .pipe(gulp.dest(`${dirs.dist}/css`))
+// );
 
 
 gulp.task('modernizr', (done) =>{

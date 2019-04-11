@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Source Code</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  fill="#4a65c5" d="M2 7h60v50H2z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M2 7h60v13H2z"></path>
+  <path data-name="layer2" d="M8 15.5A1.5 1.5 0 1 1 9.5 14 1.5 1.5 0 0 1 8 15.5zm0-2a.5.5 0 1 0 .5.5.5.5 0 0 0-.5-.5z"
+  fill="#f27e7c"></path>
+  <circle data-name="layer2" cx="22" cy="14" r="1" fill="#f27e7c"></circle>
+  <path data-name="layer1" d="M8 16a2 2 0 1 1 2-2 2 2 0 0 1-2 2zm0-2zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm7 2a2 2 0 1 1 2-2 2 2 0 0 1-2 2zm0-2zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm7 2a2 2 0 1 1 2-2 2 2 0 0 1-2 2zm0-2zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm22 33a1 1 0 0 1-.752-1.658l6.424-7.353-6.423-7.33a1 1 0 1 1 1.5-1.318l7 7.988a1 1 0 0 1 0 1.317l-7 8.012A1 1 0 0 1 44 47zm-23 0a1 1 0 0 1-.753-.342l-7-8.012a1 1 0 0 1 0-1.317l7-7.988a1 1 0 0 1 1.5 1.318l-6.423 7.33 6.424 7.353A1 1 0 0 1 21 47zm7 2a1 1 0 0 1-.928-1.372l8-20a1 1 0 1 1 1.857.743l-8 20A1 1 0 0 1 28 49z"
+  fill="#85e3d4"></path>
+</svg>

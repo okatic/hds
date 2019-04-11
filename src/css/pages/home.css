@@ -1,4 +1,4 @@
-.navbar-nav .nav-item .nav-link {
+.homepage-hero .navbar-nav .nav-item .nav-link {
   color: #fff !important;
   font-family: Grotesk-Bold, sans-serif;
   font-size: 16px;
@@ -78,9 +78,24 @@
 .testimonials-box {
   background-color: #e7ecff;
   max-width: 400px;
-  min-height: 400px;
-  padding: 10px;
+  height: 400px;
   border-radius: 10px;
+  overflow: hidden;
+}
+
+.testimonials-title {
+  font-size: 22px;
+  font-family: Grotesk-Medium, sans-serif;
+}
+
+.testimonials-name {
+  font-size: 22px;
+  font-family: Grotesk-Bold, sans-serif;
+}
+
+.testimonials-text {
+  font-size: 18px;
+  font-family: Grotesk-Medium, sans-serif;
 }
 
 .cta-blue {
@@ -118,134 +133,3 @@
   color: #afb2ba;
   font-size: 16px;
 }
-
-
-@media only screen and (max-width: 1115px) {
-  .homepage-hero .title {
-    font-size: 55px;
-  }
-  .title-heading {
-    font-size: 55px;
-  }
-}
-@media only screen and (max-width: 991px) {
-  .homepage-hero .title {
-    font-size: 45px;
-    max-width: 70%;
-  }
-
-  .title-heading {
-    font-size: 55px;
-  }
-
-  .satochi-section {
-    height: 700px;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .homepage-hero .title {
-    font-size: 45px;
-    max-width: 70%;
-  }
-  .satochi-title {
-    font-size: 32px;
-  }
-
-  .satochi-section {
-    height: 650px;
-  }
-
-  .title-section {
-    font-size: 28px;
-  }
-  .testimonials-box {
-    min-height: 330px;
-  }
-}
-
-@media only screen and (max-width: 576px) {
-  .homepage-hero .title {
-    font-size: 35px;
-    max-width: 100%;
-  }
-
-  .title-heading {
-    font-size: 55px;
-  }
-
-  .satochi-title {
-    font-size: 30px;
-  }
-
-  .satochi-section {
-    height: 700px;
-    background-position: bottom;
-  }
-  .title-area {
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-  }
-}
-
-@media only screen and (max-width: 400px) {
-  .homepage-hero .title {
-    font-size: 25px;
-    max-width: 100%;
-  }
-
-  .title-area .w-75 {
-    width: 100%!important;
-  }
-  .title-heading {
-    font-size: 45px;
-  }
-
-  .cta-btn-outline-white, .cta-btn-blue, .cta-btn-hero {
-    max-width: 300px;
-  }
-  /*.satochi-title {*/
-    /*font-size: 22px;*/
-  /*}*/
-}
-
-
-/*Background images*/
-
-/*@media only screen and (max-width: 1600px) {*/
-  /*.satochi-section {*/
-    /*height: 850px;*/
-  /*}*/
-/*}*/
-
-/*@media only screen and (max-width: 1200px) {*/
-  /*.satochi-section {*/
-    /*height: 650px;*/
-  /*}*/
-/*}*/
-
-@media only screen and (min-width: 992px) {
-  .satochi-section {
-    height: 750px;
-  }
-}
-
-@media only screen and (min-width: 1100px) {
-  .satochi-section {
-    height: 850px;
-  }
-}
-
-@media only screen and (min-width: 1400px) {
-  .satochi-section {
-    height: 950px;
-  }
-}
-
-@media only screen and (min-width: 1600px) {
-  .satochi-section {
-    height: 1000px;
-  }
-}
-
-
