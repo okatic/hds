@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Color Palette</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer5"
+  d="M18.938 47C29.031 47 35.967 43.065 35 50.375c-.562 4.25-9 .438-9 7.531 0 3.3 3.019 4.9 7.062 5.067a29.831 29.831 0 0 0 14.207-4.151c.248-.166.491-.335.73-.51a10.3 10.3 0 0 1 1.275-.793A30.015 30.015 0 1 0 2.283 37.078C3.527 43.289 8.886 47 18.938 47z"
+  fill="#4a65c5"></path>
+  <circle data-name="layer4" cx="15" cy="34.001" r="5" transform="rotate(-45.008 15 34.001)"
+  fill="#85e3d4"></circle>
+  <circle data-name="layer3" cx="18.999" cy="20" r="3" transform="rotate(-44.987 19 20)"
+  fill="#24e5c6"></circle>
+  <circle data-name="layer2" cx="46" cy="20.992" r="4" transform="rotate(-45.01 46 20.991)"
+  fill="#03caaa"></circle>
+  <circle data-name="layer1" cx="32" cy="15.001" r="4" transform="rotate(-45.005 32 15)"
+  fill="#85e3d4"></circle>
+</svg>

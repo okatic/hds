@@ -15,6 +15,9 @@
 
 @import "buttons.css";
 @import "pages/home.css";
+@import "pages/portfolio.css";
+
+@import "responsive/responsive.css";
 
 @font-face {
   font-family: Grotesk-SB;
@@ -125,13 +128,14 @@ textarea {
 
 html, body {
   height: 100%;
+  font-family: Grotesk-Medium, sans-serif;
+  color: #47484C;
 }
 
-
-
-
-
-
+* {
+  font-family: Grotesk-Medium, sans-serif;
+  color: #47484C;
+}
 
 
 
