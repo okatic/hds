@@ -1,4 +1,9 @@
 
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
 .cta-btn-blue {
   background: #FFFFFF;
   border: 3px solid #FFFFFF;
@@ -10,6 +15,7 @@
   text-align: center;
   max-width: 350px;
   width: 100%;
+  display: block;
 }
 
 .cta-btn-hero {
@@ -23,6 +29,7 @@
   border-radius: 10px;
   max-width: 350px;
   width: 100%;
+  display: block;
 }
 
 .cta-btn-outline-white {
