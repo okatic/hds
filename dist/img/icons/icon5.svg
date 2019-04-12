@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Laboratory</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M6 52a1 1 0 0 1-1-1V21a1 1 0 0 1 2 0v30a1 1 0 0 1-1 1zm52 0a1 1 0 0 1-1-1V21a1 1 0 0 1 2 0v30a1 1 0 0 1-1 1z"
+  fill="#85e3d4"></path>
+  <path data-name="layer1" d="M62 22H52a1 1 0 0 1 0-2h10a1 1 0 0 1 0 2zm-18 0h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2zm-16 0h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2zm-16 0H2a1 1 0 0 1 0-2h10a1 1 0 0 1 0 2z"
+  fill="#85e3d4"></path>
+  <rect data-name="layer6" x="2" y="51" width="60" height="7" rx="1"
+  ry="1" fill="#4a65c5"></rect>
+  <path data-name="layer2" fill="#dff4fc" d="M12 9h8v9h-8z"></path>
+  <path data-name="layer5" d="M12 41a4 4 0 0 0 8 0V18h-8z" fill="#78d1f4"></path>
+  <path data-name="layer4" d="M28 41a4 4 0 0 0 8 0V30.083h-8z" fill="#8fa9d8"></path>
+  <path data-name="layer2" fill="#dff4fc" d="M28 9h8v21.083h-8z"></path>
+  <path data-name="layer3" d="M44 25v16a4 4 0 0 0 8 0V25z" fill="#92d5b5"></path>
+  <path data-name="layer2" fill="#dff4fc" d="M44 9h8v16h-8z"></path>
+  <path data-name="layer1" d="M36 10h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2zm-16 0h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2zm32 0h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2z"
+  fill="#85e3d4"></path>
+  <path data-name="opacity" d="M12 8a1 1 0 0 0 0 2v31a4.011 4.011 0 0 0 4 4V8zm16 0a1 1 0 0 0 0 2v31a4.011 4.011 0 0 0 4 4V8zm16 0a1 1 0 0 0 0 2v31a4.011 4.011 0 0 0 4 4V8zM5 22h2v2H5zm52 0h2v2h-2z"
+  fill="#000064" opacity=".15"></path>
+</svg>

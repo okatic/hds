@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>List Details</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#4a65c5" d="M2 7h60v50H2z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M2 7h60v13H2z"></path>
+  <path data-name="layer1" d="M8 16a2 2 0 1 1 2-2 2 2 0 0 1-2 2zm0-2zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm7 2a2 2 0 1 1 2-2 2 2 0 0 1-2 2zm0-2zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm7 2a2 2 0 1 1 2-2 2 2 0 0 1-2 2zm0-2zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm0 0zm28 17H26a1 1 0 0 1 0-2h24a1 1 0 0 1 0 2zm-32 0h-4a1 1 0 0 1 0-2h4a1 1 0 1 1 0 2zm32 8H26a1 1 0 0 1 0-2h24a1 1 0 0 1 0 2zm-32 0h-4a1 1 0 0 1 0-2h4a1 1 0 1 1 0 2zm32 8H26a1 1 0 0 1 0-2h24a1 1 0 0 1 0 2zm-32 0h-4a1 1 0 0 1 0-2h4a1 1 0 1 1 0 2z"
+  fill="#85e3d4"></path>
+</svg>
