@@ -85,16 +85,16 @@
 
 .testimonials-title {
   font-size: 22px;
-  font-family: Grotesk-Medium, sans-serif;
+  font-family: Grotesk-Bold, sans-serif;
 }
 
 .testimonials-name {
-  font-size: 22px;
+  font-size: 18px;
   font-family: Grotesk-Bold, sans-serif;
 }
 
 .testimonials-text {
-  font-size: 18px;
+  font-size: 14px;
   font-family: Grotesk-Medium, sans-serif;
 }
 
