@@ -1,0 +1,173 @@
+@media only screen and (max-width: 1115px) {
+  .homepage-hero .title {
+    font-size: 55px;
+  }
+
+  .portfolio-hero .hero-title {
+    font-size: 55px;
+    max-width: 75%;
+  }
+
+  .title-heading {
+    font-size: 55px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .homepage-hero .title {
+    font-size: 55px;
+    max-width: 70%;
+  }
+
+  .portfolio-hero .hero-title {
+    font-size: 55px;
+    max-width: 75%;
+  }
+
+  .title-heading {
+    font-size: 55px;
+  }
+
+  .satochi-section {
+    height: 700px;
+  }
+
+}
+
+@media only screen and (max-width: 767px) {
+  .homepage-hero .title {
+    font-size: 45px;
+    max-width: 70%;
+  }
+
+  .portfolio-hero .hero-title {
+    font-size: 45px;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .satochi-title {
+    font-size: 32px;
+  }
+
+  .satochi-section {
+    height: 650px;
+  }
+
+  .title-section {
+    font-size: 28px;
+  }
+  .testimonials-box {
+    min-height: 330px;
+  }
+
+  .portfolio-section-image {
+    width: 70%;
+  }
+  .fjs-image {
+    width: 45%;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .homepage-hero .title {
+    font-size: 35px;
+    max-width: 100%;
+  }
+
+  .portfolio-hero .hero-title {
+    font-size: 35px;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .title-heading {
+    font-size: 55px;
+  }
+
+  .satochi-title {
+    font-size: 30px;
+  }
+
+  .satochi-section {
+    height: 700px;
+    background-position: bottom;
+  }
+  .title-area {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+  .portfolio-section-text {
+    align-self: normal!important;
+  }
+
+  .fjs-image {
+    width: 75%;
+  }
+
+}
+
+@media only screen and (max-width: 400px) {
+  .homepage-hero .title {
+    font-size: 25px;
+    max-width: 100%;
+  }
+
+  .portfolio-hero .hero-title {
+    font-size: 25px;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .title-area .w-75 {
+    width: 100%!important;
+  }
+  .title-heading {
+    font-size: 45px;
+  }
+
+  .cta-btn-outline-white, .cta-btn-blue, .cta-btn-hero {
+    max-width: 300px;
+  }
+
+  .portfolio-section-text {
+    align-self: normal!important;
+  }
+
+  .fjs-image {
+    width: 65%;
+  }
+}
+
+
+@media only screen and (min-width: 992px) {
+  .satochi-section {
+    height: 750px;
+  }
+}
+
+@media only screen and (min-width: 1100px) {
+  .satochi-section {
+    height: 850px;
+  }
+
+  .fjs-image {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .satochi-section {
+    height: 950px;
+  }
+
+  .fjs-image {
+    width: 40%;
+  }
+}
+
+@media only screen and (min-width: 1600px) {
+  .satochi-section {
+    height: 1000px;
+  }
+}
+

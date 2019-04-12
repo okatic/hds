@@ -1,0 +1,51 @@
+.portfolio-header .navbar-nav .nav-item .nav-link {
+  color: #afb2ba;
+  font-family: Grotesk-Bold, sans-serif;
+  font-size: 16px;
+}
+
+.portfolio-hero {
+  width: 100%;
+  height: 100%;
+}
+
+.portfolio-hero .hero-title {
+  font-size: 65px;
+  color: #47484C;
+  letter-spacing: -0px;
+  text-align: left;
+  max-width: 65%;
+  font-family: Grotesk-Bold, sans-serif;
+}
+
+.section-fjs {
+  background-color: #C300FF;
+  width: 100%;
+}
+
+.section-naologic {
+  background-color: #002CFF;
+  width: 100%;
+}
+
+.section-pally {
+  background-color: #5500FF;
+  width: 100%;
+}
+
+.section-satochi {
+  background: url(../../img/svg/satichi-background.svg) no-repeat 50% 50%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+}
+
+.fjs-image {
+  width: 40%;
+}
+
+.footer {
+  background-color: #f8f8f8;
+}
