@@ -49,6 +49,7 @@
   "name": "html5-boilerplate",
   "scripts": {
     "build": "gulp build",
+    "deploy": "git subtree push --prefix dist origin gh-pages",
     "test": "gulp archive && mocha --require babel-core/register --reporter spec --timeout 5000"
   },
   "version": "7.1.0",
