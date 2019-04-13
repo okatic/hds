@@ -499,7 +499,7 @@ AddDefaultCharset utf-8
 
 # <IfModule mod_headers.c>
 
-     Header set Content-Security-Policy "script-src 'self'; object-src 'self'; img-src data: https://hoxtondesignstudio.com"
+#     Header set Content-Security-Policy "script-src 'self'; object-src 'self'; img-src data: https://hoxtondesignstudio.com"
 
 #     # `mod_headers` cannot match based on the content-type, however,
 #     # the `Content-Security-Policy` response header should be sent
